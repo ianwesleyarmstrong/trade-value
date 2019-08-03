@@ -1,0 +1,12 @@
+name: trade-value
+channels:
+- defaults
+- conda-forge
+dependencies:
+- python = 3.6
+- matplotlib
+- numpy
+- jupyter
+- seaborn
+- pandas
+- pyodbc
